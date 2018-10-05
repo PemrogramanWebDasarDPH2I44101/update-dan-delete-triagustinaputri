@@ -1,5 +1,5 @@
 <?php 
-require_once("connect.php");
+require_once("dbt.php");
 
 $nama = $_POST['nama'];
 $nim = $_POST['nim'];
